@@ -1,0 +1,2 @@
+(this.webpackJsonpmarvel=this.webpackJsonpmarvel||[]).push([[6],{103:function(e,t,n){},222:function(e,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return i}));n(103);var s=n(12),a=n(24),c=n(1);function i(){return Object(c.jsxs)("div",{children:[Object(c.jsx)(a.a,{}),Object(c.jsx)("p",{className:"page__info",children:"Page doesn't exist"}),Object(c.jsx)(s.b,{className:"page__home",to:"/",children:"Back to main page"})]})}}}]);
+//# sourceMappingURL=6.e977f3df.chunk.js.map
